@@ -1,6 +1,6 @@
 {
   "name": "@spryker/oryx-for-zed-components",
-  "version": "2.0.0-alpha",
+  "version": "0.0.1",
   "description": "Spryker ZED components frontend automation tool (oryx based)",
   "author": {
     "name": "Spryker Sytems GmbH",
@@ -35,7 +35,7 @@
     "sass-loader": "~6.0.2",
     "style-loader": "~0.13.1",
     "typescript": "~2.4.1",
-    "webpack": "~2.3.2",
+    "webpack": "~2.6.1",
     "webpack-merge": "~4.1.0",
     "yargs": "~7.0.1"
   }
