@@ -11,8 +11,13 @@
         "paths": {
             "*": [
                 "*",
-                "vendor/spryker/spryker/gui-component-collection/src/Spryker/Zed/GuiComponentCollection/Presentation/*",
-                "vendor/spryker/spryker/Bundles/GuiComponentCollection/src/Spryker/Zed/GuiComponentCollection/Presentation/*"
+                "vendor/spryker/spryker/gui-component-collection/src/Spryker/Zed/GuiComponentCollection/Presentation/App/*",
+                "vendor/spryker/spryker/Bundles/GuiComponentCollection/src/Spryker/Zed/GuiComponentCollection/Presentation/App/*"
+            ],
+            "Spryker/*": [
+                "*",
+                "vendor/spryker/spryker/gui-component-collection/src/Spryker/Zed/GuiComponentCollection/Presentation/App/*",
+                "vendor/spryker/spryker/Bundles/GuiComponentCollection/src/Spryker/Zed/GuiComponentCollection/Presentation/App/*"
             ]
         },
         "lib": [
